@@ -72,5 +72,5 @@ Sanjana Ghadge
 
 ## Preview
 
-![App Screenshot](assets/image.jpg)
 ![App Screenshot](assets/image2.jpg)
+![App Screenshot](assets/image1.jpg)
