@@ -70,7 +70,4 @@ Improved UI/UX with more interactive components
 Sanjana Ghadge
 📌 Computer Engineering Student | AI & Full Stack Enthusiast
 
-## Preview
 
-![App Screenshot](assets/image2.jpg)
-![App Screenshot](assets/image1.jpg)
